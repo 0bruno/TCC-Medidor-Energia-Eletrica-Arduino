@@ -25,4 +25,4 @@ acompanhamento do consumo de energia, mostrando quais os eletrodomésticos que d
 
 ## Screenshots
 
-![Imagem monitoramento](https://imgbox.com/SSFKP9YI)
+![Imagem monitoramento](https://imgur.com/a/7qQNlSB)
