@@ -14,8 +14,8 @@ acompanhamento do consumo de energia, mostrando quais os eletrodomésticos que d
 
 ## Autores
 
-- [@brunosribeiro](https://www.instagram.com/brunobsribeiro/)
-- [@chigueosergio](https://www.instagram.com/chigueosergio/)
+- [@LinkedIn Bruno](https://www.linkedin.com/in/bsribeiro/)
+- [@LinkedIn Chigueo Sergio](https://www.linkedin.com/in/chigueo-sergio-yokogawa-3638531b3/)
 
 ## Stack utilizada
 
